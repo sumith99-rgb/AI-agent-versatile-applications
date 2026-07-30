@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+.env
+
+# Application specific
+temp/
+memory.json
+
+# If you don't want to upload secrets to github, uncomment config.py
+config.py

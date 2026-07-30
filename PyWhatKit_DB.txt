@@ -1,0 +1,20 @@
+Date: 26/6/2026
+Time: 18:43
+Phone Number: +918919535281
+Message: Your ticket has been successfully created. Ticket ID: f6ae8615286a4caca7429096d6f78e8cDescription: Hi. Can you raise a ticket?
+--------------------
+Date: 27/6/2026
+Time: 12:30
+Phone Number: +17373163688
+Message: Your ticket has been successfully created. Ticket ID: b766291a7d1d4bb5a4575c16ff2a5bf6Description: Can you raise a ticket for me? I'm stuck in a lift.
+--------------------
+Date: 27/6/2026
+Time: 12:37
+Phone Number: +17373163688
+Message: Your ticket has been successfully created. Ticket ID: d6b41e2f1c7b4bd399205a09a44343b2Description: Can you raise a ticket for me, I'm an emergency.
+--------------------
+Date: 27/6/2026
+Time: 12:41
+Phone Number: +918919535281
+Message: Your ticket has been successfully created. Ticket ID: 5054d0b868144fb7a885d3c235821dd3Description: Hi. Can you raise a ticket?
+--------------------
